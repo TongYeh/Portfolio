@@ -9,7 +9,7 @@
 - Researched sample websites and collected requirements from users about their feelings and suggestions for improvements or additional features.  
 - Created a DFD Diagram to visualize the flow of data within the system, a Use Case Diagram to match user actions for easier UX/UI design on the website, a User Story to show the steps of system development in each phase, and a Class Diagram to simplify data management.  
 - Designed the website using Figma, with functions based on the DFD Diagram and Use Case Diagram.  
-### Word Guessing Game Using IoT
+### English vocabulary quiz game Using IoT
 - Displayed the question and answer choices on an LCD screen.  
 - Used buttons to select the answer the player thinks is correct.  
 - Used LED lights to show the number of incorrect attempts remaining.  
