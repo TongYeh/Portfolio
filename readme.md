@@ -1,6 +1,6 @@
 # Welcome to Thawanrat Portfolio
 <p align="center">
-  <img src="./image/pic.jpg" alt="image.jpg" width="600" height="400"/>
+  <img src="./image/pic.jpg" alt="image.jpg" width="100" height="100"/>
 </p>
 ## Project
 ### [Tourism Statistics Analysis in Thailand](https://public.tableau.com/views/-Dashboard-Manoi/sheet14?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
