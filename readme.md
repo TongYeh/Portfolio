@@ -17,3 +17,5 @@
 - Used buttons to select the answer the player thinks is correct.  
 - Used LED lights to show the number of incorrect attempts remaining.  
 - When all the LEDs turn off (no attempts left) or the game is completed, the final score is displayed.
+
+# [Certificates](https://drive.google.com/drive/folders/1_Zwk6zbwzN_W-LNy3Lc2ODJ-r50kcNiv?usp=sharing)
