@@ -5,6 +5,7 @@
 - Used the data to create various graphs suitable for the content.
 - Included Thailand's latitude and longitude to display a map of Thailand, allowing filtering by province to view specific data for each province.
 - Added buttons to link to other pages for easier navigation.
+
 ### Flight Booking System Design
 - Researched sample websites and collected requirements from users about their feelings and suggestions for improvements or additional features.  
 - Created a DFD Diagram to visualize the flow of data within the system, a Use Case Diagram to match user actions for easier UX/UI design on the website, a User Story to show the steps of system development in each phase, and a Class Diagram to simplify data management.  
