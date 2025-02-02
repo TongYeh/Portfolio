@@ -13,7 +13,7 @@
 
 >> [Flight booking system report.](https://drive.google.com/drive/folders/16lDKBbDYKDo9Ge_J-4YdLpgEhp2xanXd?usp=sharing)
 
->> [Flight booking system prototype: flight search.](https://www.figma.com/proto/dOwmrkwFz79HrR1M7ysgdu/flight-search?node-id=3-41&t=rdLJhUK0wq1uQPEL-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=30%3A96)
+>> [Flight booking system prototype: flight search.](https://www.figma.com/proto/KlhAziMdWhZ3AHH9MskARo/flight-search?node-id=3-41&t=HXtk8uN9nJ9RllZ1-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
     
 ### [English vocabulary quiz game Using IoT](https://github.com/TongYeh/Project-IoT)
 - Displayed the question and answer choices on an LCD screen.  
