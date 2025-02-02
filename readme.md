@@ -18,4 +18,6 @@
 - Used LED lights to show the number of incorrect attempts remaining.  
 - When all the LEDs turn off (no attempts left) or the game is completed, the final score is displayed.
 
+## [Trailhead](https://www.salesforce.com/trailblazer/j94kq5d1qegoykva6a)
+
 ## [Certificates](https://drive.google.com/drive/folders/1_Zwk6zbwzN_W-LNy3Lc2ODJ-r50kcNiv?usp=sharing)
