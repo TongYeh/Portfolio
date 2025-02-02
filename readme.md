@@ -10,7 +10,8 @@
 - Researched sample websites and collected requirements from users about their feelings and suggestions for improvements or additional features.  
 - Created a DFD Diagram to visualize the flow of data within the system, a Use Case Diagram to match user actions for easier UX/UI design on the website, a User Story to show the steps of system development in each phase, a Class Diagram to simplify data management, a Activity Diagram, a Sequence Diagram, and a State chart Diagram.
 - Designed the website using Figma, with functions based on the DFD Diagram and Use Case Diagram.
->> [Flight booking system report](https://drive.google.com/drive/folders/16lDKBbDYKDo9Ge_J-4YdLpgEhp2xanXd?usp=sharing)
+>> [Flight booking system report.](https://drive.google.com/drive/folders/16lDKBbDYKDo9Ge_J-4YdLpgEhp2xanXd?usp=sharing)
+
 >> [Flight booking system prototype: flight search.](https://www.figma.com/proto/KlhAziMdWhZ3AHH9MskARo/flight-search?node-id=3-41&t=x0DUID0CsZKkDlB0-1)
     
 ### [English vocabulary quiz game Using IoT](https://github.com/TongYeh/Project-IoT)
